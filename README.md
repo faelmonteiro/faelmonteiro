@@ -7,7 +7,7 @@
 </a>
 
 <p align="center">
-  Olá! Me chamo <b>Rafael Monteiro</b> e sou desenvolvedor focado em <b>Python</b>, automações para <b>Linux</b> e <b>Inteligência Artificial</b>.<br>
+  Olá! Me chamo <b>Rafael Lourenço</b> e sou desenvolvedor focado em <b>Python</b>, automações para <b>Linux</b> e <b>Inteligência Artificial</b>.<br>
   Gosto de transformar o terminal em um ambiente inteligente de alta produtividade. Criador do ecossistema <a href="https://github.com/faelmonteiro/Metis"><b>Metis</b></a>.
 </p>
 

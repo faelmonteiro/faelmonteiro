@@ -1,4 +1,4 @@
-    <div align="center">                                                                                                                                                                                  
+  <div align="center">                                                                                                                                                                                  
                                                                                                                                                                                                           
     # 👋 Olá, eu sou o Rafael Monteiro!                                                                                                                                                                   
                                                                                                                                                                                                           
@@ -57,24 +57,24 @@
       <img src="https://img.shields.io/badge/ZSH-F15A24?style=for-the-badge&logo=zsh&logoColor=white" />                                                                                                  
       <img src="https://img.shields.io/badge/PyQt6-41CD52?style=for-the-badge&logo=qt&logoColor=white" />                                                                                                 
     </p>                                                                                                                                                                                                  
-                                                                                                                                                                                                          
-    ### 🐧 Ambiente & Sistema                                                                                                                                                                             
-    <p>                                                                                                                                                                                                   
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />                                                                                              
-      <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" />                                                                                     
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />                                                                                                  
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />                                                                                            
-    </p>                                                                                                                                                                                                  
-                                                                                                                                                                                                          
-    ### 🤖 Inteligência Artificial & LLMs                                                                                                                                                                 
-    <p>                                                                                                                                                                                                   
-      <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />                                                                                            
-      <img src="https://img.shields.io/badge/Google_Gemini-8E75C2?style=for-the-badge&logo=google&logoColor=white" />                                                                                     
-      <img src="https://img.shields.io/badge/NVIDIA_NIM-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />                                                                                        
-      <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=speedtest&logoColor=white" />                                                                                           
-    </p>                                                                                                                                                                                                  
-                                                                                                                                                                                                          
-    ---                                                                                                                                                                                                   
+  
+    ### 🐧 Ambiente & Sistema
+    <p>
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+      <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    </p>
+  
+    ### 🤖 Inteligência Artificial & LLMs
+    <p>
+      <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+      <img src="https://img.shields.io/badge/Google_Gemini-8E75C2?style=for-the-badge&logo=google&logoColor=white" />
+      <img src="https://img.shields.io/badge/NVIDIA_NIM-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+      <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=speedtest&logoColor=white" />
+    </p>
+  
+    ---
   
     ## 📊 Estatísticas do GitHub
   
@@ -89,14 +89,10 @@
   
     ---
   
-    ## 📬 Vamos nos conectar?
+    ## 📬 Conecte-se comigo
   
     <p align="center">
-      <a href="mailto:seu_email@exemplo.com">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-      </a>
       <a href="https://github.com/faelmonteiro">
-        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/GitHub-faelmonteiro-100000?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </p>
-  ──────

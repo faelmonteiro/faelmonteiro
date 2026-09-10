@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🐧 Rafael Monteiro
+# 👋 Bem-vindo(a) ao meu GitHub!
 
 <a href="https://github.com/faelmonteiro">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&width=620&lines=Desenvolvedor+Python+%26+Entusiasta+Linux;Criador+do+Metis+AI+Suite;Automa%C3%A7%C3%A3o%2C+Shell+%26+Engenharia+de+IA;Bem-vindo(a)+ao+meu+espa%C3%A7o+open-source!" alt="Typing SVG" />
@@ -26,6 +26,15 @@
 ---
 
 </div>
+
+## 🧭 Sobre Mim & O Que Faço
+
+- 🐧 **Linux First:** Apaixonado por customização de sistemas, scripts de terminal e fluxos de alta performance.
+- 🐍 **Desenvolvimento Python:** Construção de aplicações modernas, interfaces gráficas e arquiteturas modulares.
+- 🤖 **Engenharia de IA:** Integração de agentes autônomos, visão computacional e LLMs locais e em nuvem.
+- 🚀 **Código Aberto:** Criando ferramentas para empoderar outros desenvolvedores e usuários de Linux.
+
+---
 
 ## 🚀 Projetos em Destaque
 

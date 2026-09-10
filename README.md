@@ -1,58 +1,84 @@
 <div align="center">
 
-# 👋 Olá, eu sou o Rafael Monteiro!
+# 👋 Bem-vindo(a) ao meu GitHub!
 
 <a href="https://github.com/faelmonteiro">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&lines=Desenvolvedor+Python+%26+Linux+Enthusiast;Criador+do+Metis+AI+Suite;Automa%C3%A7%C3%A3o%2C+Shell+%26+Ecossistemas+de+IA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&lines=Desenvolvedor+Python+%26+Entusiasta+Linux;Criador+de+Ecossistemas+de+IA+%26+Automa%C3%A7%C3%A3o;Bem-vindo(a)+ao+meu+espa%C3%A7o+open-source!" alt="Typing SVG" />
 </a>
 
 <p align="center">
-  <b>Transformando o ambiente Linux em um ecossistema inteligente de produtividade com IA.</b>
+  Olá! Eu sou o <b>Rafael Monteiro</b>. Este é o meu espaço onde compartilho projetos de código aberto,<br>
+  ferramentas de produtividade para o ecossistema Linux e automações inteligentes com IA.
 </p>
 
 ---
 
 </div>
 
-## 🚀 Projeto em Destaque
+## 🧭 Sobre Mim & O Que Faço
 
-<div align="center">
+- 🐧 **Linux First:** Apaixonado por customização de sistemas, scripts de terminal e fluxos de alta performance.
+- 🐍 **Desenvolvimento Python:** Construção de aplicações modernas, interfaces gráficas (PyQt6) e arquiteturas modulares.
+- 🤖 **Engenharia de IA:** Integração de agentes autônomos, visão computacional e LLMs locais (Ollama) e em nuvem.
+- 🚀 **Código Aberto:** Criando ferramentas para empoderar outros desenvolvedores e usuários de Linux.
+
+---
+
+## 📂 Meus Projetos & Criações
+
+<p>Aqui estão alguns dos projetos em destaque que desenvolvo. Fique à vontade para explorar, testar e contribuir:</p>
 
 <table border="0">
   <tr>
-    <td width="25%" align="center" valign="middle">
-      <a href="https://github.com/faelmonteiro/Metis">
-        <img src="https://raw.githubusercontent.com/faelmonteiro/Metis/main/assets/icons/metis_app_icon.png" width="140" alt="Metis Logo" />
-      </a>
-      <br><br>
-      <a href="https://github.com/faelmonteiro/Metis">
-        <img src="https://img.shields.io/badge/Acessar-Repositório-BD93F9?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
+    <td width="50%" valign="top">
+      <div align="center">
+        <a href="https://github.com/faelmonteiro/Metis">
+          <img src="https://raw.githubusercontent.com/faelmonteiro/Metis/main/assets/icons/metis_app_icon.png" width="75" alt="Metis Logo" />
+        </a>
+        <h4><a href="https://github.com/faelmonteiro/Metis">🧠 Metis — AI Desktop Assistant</a></h4>
+        <p>
+          <img src="https://img.shields.io/badge/Status-v2.0_Ativo-50FA7B?style=flat-square" />
+          <img src="https://img.shields.io/badge/Python-PyQt6-3776AB?style=flat-square" />
+        </p>
+      </div>
+      <p>
+        Assistente flutuante de inteligência artificial, visão computacional de tela (OCR) e agente autônomo com busca web nativa para Linux.
+      </p>
+      <div align="center">
+        <a href="https://github.com/faelmonteiro/Metis">
+          <img src="https://img.shields.io/badge/Conhecer_Projeto-BD93F9?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </div>
     </td>
-    <td width="75%" valign="top">
-      <h3>🧠 <a href="https://github.com/faelmonteiro/Metis">Metis — AI Desktop & Terminal Assistant</a></h3>
+    <td width="50%" valign="top">
+      <div align="center">
+        <a href="https://github.com/faelmonteiro/metis-suite">
+          <img src="https://raw.githubusercontent.com/faelmonteiro/Metis/main/assets/icons/glyph_64x64.png" width="75" alt="Suite Logo" />
+        </a>
+        <h4><a href="https://github.com/faelmonteiro/metis-suite">⚡ Metis & ZSH AI Suite</a></h4>
+        <p>
+          <img src="https://img.shields.io/badge/Status-Instalador_Oficial-8BE9FD?style=flat-square" />
+          <img src="https://img.shields.io/badge/Shell-ZSH-F15A24?style=flat-square" />
+        </p>
+      </div>
       <p>
-        <img src="https://img.shields.io/badge/Versão-2.0-8BE9FD?style=flat-square" />
-        <img src="https://img.shields.io/badge/Interface-PyQt6-50FA7B?style=flat-square&logo=qt&logoColor=black" />
-        <img src="https://img.shields.io/badge/Ambiente-Linux-FFB86C?style=flat-square&logo=linux&logoColor=black" />
-        <img src="https://img.shields.io/badge/IA-Híbrida-FF79C6?style=flat-square" />
+        Suíte de distribuição Linux e integração com ZSH: menus interativos FZF (<code>Ctrl+G</code>), atalhos de buffer no Kitty e copiloto de terminal.
       </p>
-      <p>
-        O <b>Metis</b> integra modelos de linguagem de ponta diretamente ao fluxo de trabalho no Linux através de três pilares:
-      </p>
-      <ul>
-        <li>🖥️ <b>Interface Flutuante (PyQt6):</b> Janela com streaming instantâneo, renderização rica de Markdown e temas modernos (Dracula / Metis Oracle).</li>
-        <li>👁️ <b>Metis Vision:</b> Captura de janelas, região ou tela cheia com OCR e diagnóstico visual de código/erros via <code>Super + Z</code>.</li>
-        <li>🤖 <b>Agente Autônomo:</b> Busca web nativa em tempo real, leitura e edição cirúrgica de arquivos com preview de diff e relatórios PDF.</li>
-        <li>⌨️ <b>Copiloto de Terminal ZSH:</b> Menu interativo FZF (<code>Ctrl + G</code>), captura de buffer no Kitty (<code>Ctrl + Shift + E</code>) e autocomplete inline.</li>
-      </ul>
-      <p>
-        <i>💡 100% offline com <b>Ollama</b> ou acelerado em nuvem com <b>Gemini, Groq, NVIDIA e OpenRouter</b>.</i>
-      </p>
+      <div align="center">
+        <a href="https://github.com/faelmonteiro/metis-suite">
+          <img src="https://img.shields.io/badge/Ver_Instalador-FF79C6?style=for-the-badge&logo=linux&logoColor=black" />
+        </a>
+      </div>
     </td>
   </tr>
 </table>
 
+<br>
+
+<div align="center">
+  <a href="https://github.com/faelmonteiro?tab=repositories">
+    <img src="https://img.shields.io/badge/📁_Explorar_Todos_os_Repositórios-21262D?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </div>
 
 ---
@@ -84,7 +110,7 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 Estatísticas & Atividade
 
 <div align="center">
 
@@ -115,7 +141,7 @@
 
 ---
 
-## 📬 Conecte-se comigo
+## 📬 Conecte-se Comigo
 
 <div align="center">
 
